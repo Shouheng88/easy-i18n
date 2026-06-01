@@ -1,5 +1,9 @@
 # Easy I18n \| Professional Multilingual Management Tool
 
+[中文简体](doc/README-zh.md) | [中文繁体](doc/README-zh-Hans.md)
+
+<img src="res/icon_256x256.png" width=150>
+
 ## 1. Overview
 
 Multilingual localization is an essential part of global application development and operation, yet it has long been plagued by tedious and inefficient maintenance problems\. For developers, modifying a single translation entry often means locating and editing the same term across multiple scattered language files, which is time\-consuming and error\-prone\. For operation teams, maintaining multilingual app store introductions, app names, update logs and promotion copy lacks a unified management solution, requiring repetitive editing of diverse files across different languages\.
