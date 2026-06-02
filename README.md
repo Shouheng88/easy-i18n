@@ -4,6 +4,8 @@
 
 <img src="res/icon_256x256.png" width=150>
 
+<a href="https://www.producthunt.com/products/easy-i18n?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-easy-i18n" target="_blank" rel="noopener noreferrer"><img alt="Easy I18n - Multilingual Localization for Developers &amp; Operators | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1160297&amp;theme=light&amp;t=1780395109171"></a>
+
 ## 1. Overview
 
 Multilingual localization is an essential part of global application development and operation, yet it has long been plagued by tedious and inefficient maintenance problems\. For developers, modifying a single translation entry often means locating and editing the same term across multiple scattered language files, which is time\-consuming and error\-prone\. For operation teams, maintaining multilingual app store introductions, app names, update logs and promotion copy lacks a unified management solution, requiring repetitive editing of diverse files across different languages\.
